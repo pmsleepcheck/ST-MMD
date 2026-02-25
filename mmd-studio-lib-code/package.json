@@ -1,0 +1,17 @@
+{
+  "name": "mmd-bundle",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "vite build"
+  },
+  "dependencies": {
+    "mmd-mpl": "^0.3.6",
+    "reze-engine": "^0.4.6"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "vite-plugin-wasm": "^3.3.0",
+    "vite-plugin-top-level-await": "^1.4.1"
+  }
+}

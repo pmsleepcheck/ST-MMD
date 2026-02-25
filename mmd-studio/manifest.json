@@ -1,0 +1,11 @@
+{
+    "display_name": "MMD Studio",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "Your Name",
+    "version": "1.0.0",
+    "description": "MMD 动画生成器 - 支持 MPL 语言和 reze-engine"
+}
