@@ -13,8 +13,8 @@
 <br>打包成mmd-studio-lib.js
 <br>
 <br>运行
-<br> 
-<br> 
+<br> 复制mmd-studio文件夹到 public\scripts\extensions\third-party 模型可以放在mmd-studio目录下
+<br> 刷新酒馆在有时间看见mmd按钮
 <br>todo 
 <br>核心问题：提示词，当前提示词照搬自popo项目，难以融入大多数预设
 <br>
@@ -28,3 +28,4 @@
 <br>应该允许导出动作文件VMD
 <br>ui修改
 <br>ui适配移动
+<br>大量友好性适配工作
